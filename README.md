@@ -5,5 +5,5 @@
 > Para rodar o projeto voce precisa executar o comando abaixo:
 
 ```
-node app.js
+npm install react
 ```
